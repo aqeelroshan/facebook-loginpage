@@ -30,3 +30,97 @@ body{
     margin-left: 257px;
     float: left;
 }
+.right-body{
+    width: 50%;
+    height: 700px;
+    float: left;
+}
+.email-password{
+    height: 19px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    border-color: none;
+    border: none;
+    border: 1px solid #dddfe2;
+}
+.login-button{
+    font-size: 20px;
+    border-radius: 6px;
+    width: 369px;
+    padding: 0 16px;
+    height: 47px;
+    background-color:  #166fe5;
+    color:#fff;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.forgotten{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    padding-left: 108px;
+}
+.forgotten:hover{
+    text-decoration: underline;
+}
+.login-box{
+    padding-left: 92px;
+    padding-top: 82px;
+}
+.login-controls{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    padding-left: 14px;
+}
+.line{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+.create-button{
+    background-color: #42b72a;
+    border-radius: 6px;
+    width: 200px;
+    font-size: 17px;
+    height: 50px;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    font-weight: bold;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.under-box{
+    margin-left: 43px;
+    margin-top: 28px;
+}
+.text-under-box{
+    border-top: none;
+    color: #1c1e21;
+    font-size: 14px;
+    font-weight: normal;
+}
+.create-link{
+    text-decoration: none;
+    font-weight: bold;
+    color: #1c1e21;
+}
+.create-link:hover{
+    text-decoration: underline;
+}
